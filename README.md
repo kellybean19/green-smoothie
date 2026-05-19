@@ -1,2 +1,2 @@
 # green-smoothie
-here lies fun coding things
+here lie fun coding things
